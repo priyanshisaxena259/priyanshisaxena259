@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Priyanshi Saxena 👋
 
-<!--
-**priyanshisaxena259/priyanshisaxena259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BTECH Student**
 
-Here are some ideas to get you started:
+📍 **Branch: CSE AI&ML** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📅 **Year: 1st Year**  
+
+---
+
+##  About Me
+I am a first-year BTECH student passionate about learning new technologies and building a strong foundation in programming and problem-solving.
+
+---
+
+##  What I Want to Learn
+I aim to develop my skills in coding, explore different areas of computer science, and gain practical experience through projects and real-world applications.
+
+---
